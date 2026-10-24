@@ -2,7 +2,7 @@ using System.Collections;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
-
+//game manager
 public class AnaMenuKontrol : MonoBehaviour
 {
     [SerializeField] private string ilkBolumAdi = "Level1";
